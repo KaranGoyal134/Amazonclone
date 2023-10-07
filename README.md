@@ -1,0 +1,2 @@
+# Amazonclone
+Recreated amazon website
